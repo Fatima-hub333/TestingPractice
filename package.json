@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Fatima-hub333/TestingPractice/issues"
   },
-  "homepage": "https://github.com/Fatima-hub333/TestingPractice#readme"
+  "homepage": "https://github.com/Fatima-hub333/TestingPractice#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
 }
