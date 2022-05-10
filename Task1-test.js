@@ -5,7 +5,7 @@ test('The parameter is not a string', () => {
     const expected = /^Alic/;
 
     //Act & Assert
-    expect.not.stringLength(expected);
+    expect.not.stringMatching(expected);
 });
 
 test('The parameter is empty.', () => {
