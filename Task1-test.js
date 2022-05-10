@@ -1,4 +1,4 @@
-const stringLength = require('./stringLength.js');
+const stringLength = require('./Task1.js');
 
 test('The parameter is not a string', () => {
     //Arrange

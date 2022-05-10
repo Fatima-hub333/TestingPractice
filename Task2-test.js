@@ -1,4 +1,4 @@
-const reverseString = require('./reverseString.js');
+const reverseString = require('./Task2.js');
 
 test('The parameter is not string', () => {
   //Arrange
