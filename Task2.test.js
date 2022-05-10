@@ -1,4 +1,5 @@
 const reverseString = require('./Task2.js');
+const stringLength = require('./Task1');
 
 test('The parameter is not string', () => {
   //Arrange

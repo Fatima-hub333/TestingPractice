@@ -9,7 +9,7 @@ test('The parameter is not a string', () => {
 });
 
 test('The parameter is empty.', () => {
-    expect(stringLength(' ')).toBeLessThan(1);
+    expect(stringLength('')).toBeLessThan(1);
 });
 
 test('The string is too long. (Max:10 characters)', () => {

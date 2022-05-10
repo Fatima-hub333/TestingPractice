@@ -3,7 +3,7 @@ const stringCapitalized = require('./Task4.js');
 describe('my Sting', () => {
   test('is lowercase', () => {
     const string = 'everything is lowercase';
-    expect(stringCapitalized(string)).toBe('EveryThing is lowercase')
+    expect(stringCapitalized(string)).toBe('Everything is lowercase')
   });
 
   test('is uppercase', () => {
